@@ -13,6 +13,6 @@ import SwiftyJSON
 public class FRNetwork: NSObject {
     
     public func getData () {
-        print("Called")
+        print("Called.  ")
     }
 }
