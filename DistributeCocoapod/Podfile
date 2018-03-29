@@ -6,7 +6,7 @@ target 'DistributeCocoapod' do
   use_frameworks!
 
 	pod 'SwiftyJSON'
-  	pod 'Alamofire'
+#      pod 'Alamofire'
 
   # Pods for DistributeCocoapod
 
